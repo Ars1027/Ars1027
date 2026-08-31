@@ -36,10 +36,13 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ars1027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ars1027&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight)
+
+<!-- Stats Card -->
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight)
 
 </div>
 
