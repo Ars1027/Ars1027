@@ -20,18 +20,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight)
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight)
-
-<!-- Stats Card -->
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
