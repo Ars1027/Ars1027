@@ -20,18 +20,17 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
+</div>
+
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
     </td>
   </tr>
 </table>
@@ -51,6 +50,8 @@
 ## 🎵 Currently Vibing To
 
 > 🎧 BanG Dream! - Poppin' Party / Roselia
+> 
+> 🎮 沉迷于素晴日（素晴らしき日々）
 
 ---
 
