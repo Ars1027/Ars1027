@@ -28,10 +28,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=transparent" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=transparent" alt="Top Languages" />
       </td>
     </tr>
   </table>
