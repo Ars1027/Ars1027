@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
