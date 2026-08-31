@@ -24,11 +24,9 @@
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<div>
-  <img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
-  <img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />&nbsp;<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
 </div>
-<br clear="both" />
 
 ---
 
