@@ -51,7 +51,7 @@
 
 > 🎧 BanG Dream! - Poppin' Party / Roselia
 > 
-> 🎮 沉迷于素晴日（素晴らしき日々）
+> 🎮 素晴らしき日々～不連続存在～
 
 ---
 
