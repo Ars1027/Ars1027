@@ -24,16 +24,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ars1027&theme=tokyonight" alt="Profile Details" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ars1027&theme=tokyonight" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ars1027&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
