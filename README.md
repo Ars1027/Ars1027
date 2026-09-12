@@ -12,7 +12,7 @@
 ## 🎓 About Me
 
 - 📖 Majoring in Computer Science and Technology at UCAS
-- 🌱 Currently learning: Computer Systems, Algorithms, and Software Engineering
+- 🌱 Currently learning: Vision-Guided Robotic Grasping, VLA, World Models & AI Agents
 - 💪 Fitness enthusiast | 📺 Anime lover | 🎮 Visual novel & rhythm game player
 - 🎸 Currently obsessed with BanG Dream! 🎵
 
