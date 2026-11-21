@@ -44,7 +44,7 @@
 
 > 🎧 BanG Dream! - Poppin' Party / Roselia
 > 
-> 🎮 素晴らしき日々～不連続存在～
+> 🎮 素晴らしき日々～不連続存在～, WHITE ALBUM2
 
 ---
 
