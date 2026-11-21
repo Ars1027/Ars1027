@@ -42,9 +42,9 @@
 
 ## 🎵 Currently Vibing To
 
-> 🎧 BanG Dream! - Poppin' Party / Roselia
+> 🎧 BanG Dream! - Poppin' Party / Roselia / Millsage
 > 
-> 🎮 素晴らしき日々～不連続存在～, WHITE ALBUM2
+> 🎮 素晴らしき日々～不連続存在～ / WHITE ALBUM2
 
 ---
 
